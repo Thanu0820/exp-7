@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+<frameset rows="15%,85%">
+    <frameset cols="10%,90%">
+        <frame src="image.html" scrolling="no" noresize>
+    
+    </frameset>
+    <frameset cols="10%,90%">
+        <frame src="branches.html">
+        <frameset rows="10%,90%">
+            <frame src="index.html" scrolling="no" noresize>
+            <frame src="home.html" name="contentFrame">
+        </frameset>
+    </frameset>
+</frameset>
+ </body>
+</html>
